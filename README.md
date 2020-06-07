@@ -15,6 +15,10 @@ Uma aplicação de pontos de coleta de recicláveis, onde é possível cadastrar
 * Javascript
 * NodeJs
 
+## API
+* API de localidades(IBGE) - ``` https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet ```
+
+
 ## Dependências 🏷
 * ```"dependencies": {"express": "^4.17.1","nunjucks": "^3.2.1","sqlite3": "^4.2.0"}```
   
