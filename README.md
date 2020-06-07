@@ -2,11 +2,11 @@
 
 Desafio proposto pela Rocketseat na semana NLW - Next Level Week
 
-## Getting Started
+## Resumo
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Uma aplicação de pontos de coleta de recicláveis, onde é possível cadastrar pontos novos de acordo com os materiais que ele coleta, pesquisar os pontos cadastrados por cidade.
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas 🖥
 
 * HTML 5
 * CSS 3
