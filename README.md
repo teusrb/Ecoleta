@@ -20,7 +20,7 @@ Uma aplicação de pontos de coleta de recicláveis, onde é possível cadastrar
     "sqlite3": "^4.2.0"
   },
   
-  "devDependencies": {
+ * "devDependencies": {
     "nodemon": "^2.0.4"
   }
 
