@@ -20,7 +20,9 @@ Uma aplicação de pontos de coleta de recicláveis, onde é possível cadastrar
  * ```"devDependencies": {"nodemon": "^2.0.4"}```
 
 ![cadastre](https://user-images.githubusercontent.com/53863282/83974298-cfb3a480-a8c2-11ea-8ed2-ce44cb365ee6.PNG)
+<br/>
 ![pesquisa](https://user-images.githubusercontent.com/53863282/83974299-cfb3a480-a8c2-11ea-86d7-4decf47a0466.PNG)
+<br/>
 ![resultados](https://user-images.githubusercontent.com/53863282/83974300-d04c3b00-a8c2-11ea-8943-66a351f8c2ca.PNG)
 
 ## Siga-me 😀
