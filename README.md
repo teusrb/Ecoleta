@@ -5,6 +5,7 @@ Desafio proposto pela Rocketseat na semana NLW - Next Level Week
 ## Resumo ✏
 
 Uma aplicação de pontos de coleta de recicláveis, onde é possível cadastrar pontos novos de acordo com os materiais que ele coleta, pesquisar os pontos cadastrados por cidade.
+![index](https://user-images.githubusercontent.com/53863282/83974297-ce827780-a8c2-11ea-8d74-3f8167407156.PNG)
 
 ## Tecnologias utilizadas 🖥
 
