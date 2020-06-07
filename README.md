@@ -14,15 +14,15 @@ Uma aplicação de pontos de coleta de recicláveis, onde é possível cadastrar
 * NodeJs
 
 ## Dependências
-```
-"dependencies": {
+** "dependencies": {
     "express": "^4.17.1",
     "nunjucks": "^3.2.1",
     "sqlite3": "^4.2.0"
   },
+  
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }```
+  }
 
 
 
