@@ -23,6 +23,6 @@ Uma aplicação de pontos de coleta de recicláveis, onde é possível cadastrar
 
 ## Siga-me 😀
 
-* **Linkedin** - ```(https://www.linkedin.com/in/mateus-rodrigues-bara%C3%A7al)```
+* **Linkedin** - ``` https://www.linkedin.com/in/mateus-rodrigues-bara%C3%A7al ```
 
 
